@@ -9,12 +9,40 @@ body {
 
 #balk {
     background-color: white;
-    width: 69%;
+    width: 75%;
     height: 15%;
 }
 
 #container {
     background-color: green;
+    width: 75%;
+    height: 80%;
+    display: flex;
+}
+
+
+#menu {
+    background-color: gray;
+    width: 20%;
+    height: 100%
+}
+
+#bericht {
+    background-color: yellow;
     width: 60%;
-    height: 30%;
+    height: 100%
+}
+#plaatje {
+    background-color: gray;
+    width: 20%;
+    height: 100%
+}
+
+.banaan {
+    background-color: white;
+    border: 10px solid black;
+    border-radius: 12px;
+    width: 80%;
+    margin: 10px;
+    padding: 12px;
 }
