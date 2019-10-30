@@ -8,10 +8,37 @@ body {
 }
 
 #balk {
-    background-color: white;
+    background-color: gray;
     width: 75%;
     height: 15%;
+    color: white;
 }
+
+.h1{
+    font-size: 23px;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
 
 #container {
     background-color: green;
@@ -22,18 +49,18 @@ body {
 
 
 #menu {
-    background-color: gray;
+    background-color: black;
     width: 20%;
     height: 100%
 }
 
 #bericht {
-    background-color: yellow;
+    background-color: darkred;
     width: 60%;
     height: 100%
 }
 #plaatje {
-    background-color: gray;
+    background-color: black;
     width: 20%;
     height: 100%
 }
