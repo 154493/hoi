@@ -1,17 +1,6 @@
-html {
-    height: 100%;
-}
-
-body {
-    background-color: royalblue;
-    height: 100%;
-}
-
 #balk {
     background-color: gray;
-    width: 75%;
-    height: 15.5%;
-    color: white;
+    height: 20%;
     text-align: center;
 }
 
@@ -45,10 +34,9 @@ li a {
 
 
 #container {
-    background-color: green;
-    width: 75%;
-    height: 80%;
+    
     display: flex;
+    height: 100%;
 }
 
 
@@ -62,7 +50,7 @@ li a {
     background-color: darkred;
     width: 60%;
     height: 100%;
-    text-align: center;
+    
 
 }
 #plaatje {
