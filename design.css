@@ -1,6 +1,6 @@
 #balk {
     background-color: gray;
-    height: 20%;
+    height: 100px;
     text-align: center;
 }
 
@@ -34,32 +34,23 @@ li a {
 
 
 #container {
-    
     display: flex;
-    height: 100%;
-}
-
-
-#menu {
-    background-color: black;
-    width: 20%;
-    height: 100%
 }
 
 #bericht {
     background-color: darkred;
-    width: 60%;
-    height: 100%;
-    
-
+    width: 100%;
+    height: 100%;   
 }
 #plaatje {
     background-color: black;
-    width: 20%;
-    height: 100%
+    display: flex;
 }
-
-.banaan {
+#plaatje2 {
+    width: 20%;
+    height: 100%;
+}
+.tekst {
     background-color: white;
     border: 10px solid black;
     border-radius: 12px;
