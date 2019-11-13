@@ -1,11 +1,18 @@
+body{
+    background-color: darkred;
+    margin: 0px;
+}
 #balk {
     background-color: gray;
     height: 100px;
     text-align: center;
+    margin-bottom: 5px;
+    margin-top: 0px;
 }
 
 .h1{
     font-size: 23px;
+    margin-top: 0px;
 }
 
 .h2{
@@ -49,6 +56,7 @@ li a {
 #plaatje2 {
     width: 20%;
     height: 100%;
+    margin-bottom: 0px;
 }
 .tekst {
     background-color: white;
